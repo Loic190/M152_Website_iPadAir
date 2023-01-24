@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: "Times New Roman" !important;
+}
+.homeSitePic{
+    width: 40%;
+    margin-left:30%;
+}
+img{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.textHomePage{
+    text-align: center;
+    width:40%;
+    margin-left: 30%;
+}
+.videoIpad{
+    position: relative;
+    margin-top: 5%;
+    width: 80%;
+    height: auto;
+    margin-left:10%;
+}
+#divbildProzessor{
+    float:left;
+    width:30%;
+    display: block;
+    height: auto;
+}
+#divtextProzessor{
+    width:70%;
+    display: block;
+    text-align: center;
+    height: auto;
+    margin-top: 10vh;
+}
+#divtextKamera{
+    width:70%;
+    display: block;
+    text-align: center;
+    height: 100%;
+}
+#divbildKamera{
+    float:right;
+    width:17%;
+    display: block;
+    height: auto;
+}
+#bildKamera{
+    margin-left: 0  ;
+    margin-right: 0;
+    width:100% !important;
+    height: auto;
+}
+.formular{
+    margin-left: auto;
+    margin-right: auto;
+    width:60% !important;
+    height:auto;
+}
+
